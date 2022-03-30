@@ -15,7 +15,7 @@
 </p>
 
 <h4 align="center">
-	🚧   Quase concluído 🚀 🚧
+	🚧   Concluído 🚀 🚧
 </h4>
 
 Tabela de conteúdos
